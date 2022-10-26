@@ -1,0 +1,18 @@
+site_name: Wiki | Scene.RE
+site_description: Recopilación de información que puede ser relevante o no, sin ninguna categoría en particular
+strict: true
+site_url: https://wiki.scene.re/
+
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: slate
+    primary: deep purple
+
+repo_name: SceneRE/wiki
+repo_url: https://github.com/SceneRE/wiki
+edit_uri: edit/main/docs/
+
+plugins:
+  - search
