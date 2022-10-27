@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# La Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido!, esta es una wiki dedicada a la recopilación de información que puede ser relevante o no, sin ninguna categoría en particular.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Siéntase libre de aportar o realizar cualquier comentario, recuerde siempre las netiquetas, o dicho de otra forma, "sé buena persona" y todo siempre ira a buen rumbo.

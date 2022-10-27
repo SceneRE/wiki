@@ -6,6 +6,7 @@ site_url: https://wiki.scene.re/
 theme:
   name: material
   language: es
+  custom_dir: customs
   palette:
     scheme: slate
     primary: deep purple
