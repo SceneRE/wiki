@@ -15,5 +15,10 @@ repo_name: SceneRE/wiki
 repo_url: https://github.com/SceneRE/wiki
 edit_uri: edit/main/docs/
 
+extra:
+  analytics:
+    provider: google
+    property: G-19J4G4SPKZ
+
 plugins:
   - search
