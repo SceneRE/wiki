@@ -19,6 +19,20 @@ extra:
   analytics:
     provider: google
     property: G-19J4G4SPKZ
+    feedback:
+      title: ¿Fue útil esta página?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Esta página fue útil
+          data: 1
+          note: >-
+            ¡Gracias por sus comentarios!
+        - icon: material/emoticon-sad-outline
+          name: Esta página podría mejorarse
+          data: 0
+          note: >- 
+            ¡Gracias por tus comentarios! Ayúdanos a mejorar esta página <a href="https://github.com/SceneRE/wiki/discussions" target="_blank" rel="noopener">creando una discusión</a>.
+
 
 plugins:
   - search
