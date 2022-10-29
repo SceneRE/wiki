@@ -10,7 +10,7 @@ No es un sitio de opinión en lo que al contenido respecta, su intención es ser
 
 ## Licencia
 
-El contenido de este proyecto en sí tiene licencia bajo <a href="https://github.com/SceneRE/wiki/blob/main/LICENSE.CC0-1.0" target="_blank" rel="noopener">Creative Commons Zero V1.0 Universal</a>, y el código fuente subyacente utilizado para formatear y mostrar dicho contenido tiene licencia bajo <a href="https://github.com/SceneRE/wiki/blob/main/LICENSE.UNLICENSE" target="_blank" rel="noopener">Unlicense</a>.
+El contenido de este proyecto en sí tiene licencia bajo <a href="https://github.com/SceneRE/wiki/blob/main/LICENSE.CC0" target="_blank" rel="noopener">Creative Commons Zero V1.0 Universal</a>, y el código fuente subyacente utilizado para formatear y mostrar dicho contenido tiene licencia bajo <a href="https://github.com/SceneRE/wiki/blob/main/LICENSE.UNLICENSE" target="_blank" rel="noopener">Unlicense</a>.
 
 Si usted decide aportar al proyecto, ya sea en forma de código fuente o contenido, está aceptando licenciar dichos aportes bajos alguna de las dos licencias del proyecto mencionadas arriba, respectivamente.
 
