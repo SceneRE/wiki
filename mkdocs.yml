@@ -3,9 +3,13 @@ site_description: Recopilación de información que puede ser relevante o no, si
 strict: true
 site_url: https://wiki.scene.re/
 
+copyright: <a href="https://github.com/SceneRE/wiki/blob/main/LICENSE" target="_blank" rel="noopener">Sin derechos reservados / No rights reserved - 2022</a>
+
 theme:
   name: material
   language: es
+  icon:
+    logo: simple/knowledgebase
   custom_dir: customs
   palette:
     scheme: slate
@@ -33,6 +37,8 @@ extra:
           note: >- 
             ¡Gracias por tus comentarios! Ayúdanos a mejorar esta página <a href="https://github.com/SceneRE/wiki/discussions" target="_blank" rel="noopener">creando una discusión</a>.
 
+markdown_extensions:
+  - admonition
 
 plugins:
   - search
