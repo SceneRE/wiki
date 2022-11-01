@@ -2,11 +2,11 @@
 
 ## Ver todas las ventanas de cada aplicación con Alt-Tab en GNOME 40+
 
-En Settings > Keyboard ir a Shorcuts
+En ```Settings``` > ```Keyboard``` ir a ```Shorcuts```
 
 ![](/assets/images/gnome-01.png)
 
-Buscar "switch windows" y asignar Alt+Tab
+Buscar ```switch windows``` y asignar ```Alt+Tab```
 
 ![](/assets/images/gnome-02.png)
 
@@ -38,3 +38,15 @@ yay -S librsvg
 ```
 
 También es posible que necesite reiniciar Linux si persiste el problema.
+
+
+## Nautilus: Ordenar carpetas antes que los archivos
+
+
+Abrir Nautilus, en la parte superior derecha en los 3 puntos, hacer clic en ```Preferences```
+
+![](/assets/images/gnome-03.png)
+
+Activar ```Sort Filder Before Files```
+
+![](/assets/images/gnome-04.png)
