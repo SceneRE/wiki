@@ -42,7 +42,6 @@ También es posible que necesite reiniciar Linux si persiste el problema.
 
 ## Nautilus: Ordenar carpetas antes que los archivos
 
-
 Abrir Nautilus, en la parte superior derecha en los 3 puntos, hacer clic en ```Preferences```
 
 ![](/assets/images/gnome-03.png)
@@ -50,3 +49,8 @@ Abrir Nautilus, en la parte superior derecha en los 3 puntos, hacer clic en ```P
 Activar ```Sort Filder Before Files```
 
 ![](/assets/images/gnome-04.png)
+
+
+## Nautilus: Mostrar siempre los archivos ocultos
+
+`dconf write /org/gtk/settings/file-chooser/show-hidden true`
