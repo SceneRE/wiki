@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://wiki.scene.re/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.scene.re/Arch%20Linux/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.scene.re/Arch%20Linux/GNOME/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.scene.re/Filosof%C3%ADa/Sunday%20Composers/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.scene.re/Filosof%C3%ADa/Estilo%20de%20vida/Dos%20estilos%20de%20vida/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
