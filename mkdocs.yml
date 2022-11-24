@@ -14,6 +14,8 @@ theme:
   palette:
     scheme: slate
     primary: deep purple
+  features:
+    - navigation.indexes
 
 repo_name: SceneRE/wiki
 repo_url: https://github.com/SceneRE/wiki
